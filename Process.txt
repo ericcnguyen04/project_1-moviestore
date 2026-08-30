@@ -9,5 +9,5 @@ Description: continuing this process, with music because youtube doesnt have aud
 URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATJXPOLFEJMYXVEIHLLJ3QSOVGKW&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQA3e5ZSJZi9SIOtadwk6plWARKOWRieQOwCHR2O6LqOVzQ&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQA3e5ZSJZi9SIOtadwk6plWARKOWRieQOwCHR2O6LqOVzQ&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=67016dba-e96e-4448-86f0-2bbb40a5feaf&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
 
 Aug 30th (like another break session):
-Description: Completed the 3rd episode and will move onto the fourth. we established base template and will be creating a movie app with dummy data. This is fun despite me being congested/nose semi blocked.
+Description: Completed the 3rd episode and will move onto the fourth. we established base template and will be creating a movie app with dummy data. This is fun despite me being congested/nose semi blocked. Regardless, completed, pretty cool and fun.
 URL:
