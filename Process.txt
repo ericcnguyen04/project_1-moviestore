@@ -11,3 +11,11 @@ URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW5
 Aug 30th (like another break session):
 Description: Completed the 3rd episode and will move onto the fourth. we established base template and will be creating a movie app with dummy data. This is fun despite me being congested/nose semi blocked. Regardless, completed, pretty cool and fun.
 URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATIDCSKOMLHVSZAZSPETBOZ5AFNA&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQADFJTmLPWWQZk8kwuz0BWgAQXz9UkWeLFNaEM6gnhfbJ8&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQADFJTmLPWWQZk8kwuz0BWgAQXz9UkWeLFNaEM6gnhfbJ8&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=e50876bc-fff9-4797-bf5d-7f90788cb880&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+
+Sep 1
+Description: class based project doing; hard to focus, helped classmated, road block
+URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATOI6DZLOSWLVRDKITL3YCLYEM4D&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQDI8PK3SsusRqRNe8CXgjODAUFnlriS37IWH5GryTHqTXY&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQDI8PK3SsusRqRNe8CXgjODAUFnlriS37IWH5GryTHqTXY&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=b219d13f-dd15-4f8b-b6d6-ef6b7e97119d&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+
+Sep 3
+Description: I installed pillow after diffuculty from multiple python versions. We will now collect and display data from database
+URL: 
