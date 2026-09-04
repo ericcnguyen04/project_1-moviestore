@@ -22,4 +22,7 @@ URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW5
 
 Sept 4
 Description: I will start on chapter 7 and sprint til completion.
+- completed 7
+- completed chap 8: implementing user sign up and login
+- will take 30 min break and continue
 URL:
