@@ -2,4 +2,9 @@ from django.contrib import admin
 from .models import Movie
 
 # Register your models here.
-admin.site.register(Movie)
+
+# ordering movies by name
+class MovieAdmin(admin.ModelAdmin):
+    ordering = ['name']
+    search_fields = ['name'] # allow search by name
+admin.site.register(Movie, MovieAdmin)
