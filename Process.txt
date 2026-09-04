@@ -25,4 +25,8 @@ Description: I will start on chapter 7 and sprint til completion.
 - completed 7
 - completed chap 8: implementing user sign up and login
 - will take 30 min break and continue
-URL:
+URL:https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATLPIHFYFTM4GJH3KW6BHJ42XOPF&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQBvQcuCzZwyT7VbwTp5q7nlAVw-f6DbPMdStJbWxBruumI&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQBvQcuCzZwyT7VbwTp5q7nlAVw-f6DbPMdStJbWxBruumI&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=b9d1d65b-420c-48a2-a43b-5484f3278f4e&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+
+Sept 4
+Description: Sprinting chapter 9 til finish
+URL: 

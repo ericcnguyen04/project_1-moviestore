@@ -1,5 +1,6 @@
-from django.shortcuts import render
-from .models import Movie
+from django.shortcuts import render, redirect, get_object_or_404
+from .models import Movie, Review
+from django.contrib.auth.decorators import login_required
 # # Create your views here.
 # movies = [
 #     {
@@ -42,8 +43,49 @@ def index(req):
 
 def show(req, id):
     movie = Movie.objects.get(id=id)
+    reviews = Review.objects.filter(movie=movie)
 
     template_data = {}
     template_data['title'] = movie.name
     template_data['movie'] = movie
+    template_data['reviews'] = reviews
     return render(req, 'movies/show.html', {'template_data': template_data})
+
+@login_required
+def create_review(req, id):
+    if req.method == 'POST' and req.POST['comment'] != '':
+        movie = Movie.objects.get(id=id)
+        review = Review()
+        review.comment = req.POST['comment']
+        review.movie = movie
+        review.user = req.user
+        review.save()
+        return redirect('movies.show', id=id)
+    else:
+        return redirect('movies.show', id=id)
+
+
+@login_required
+def edit_review(req, id, review_id):
+    review = get_object_or_404(Review, id=review_id)
+    if req.user != review.user:
+        return redirect('movies.show', id=id)
+
+    if req.method == 'GET':
+        template_data = {}
+        template_data['title'] = 'Edit Review'
+        template_data['review'] = review
+        return render(req, 'movies/edit_review.html', {'template_data': template_data})
+    elif req.method == 'POST' and req.POST['comment'] != '':
+        review = Review.objects.get(id=review_id)
+        review.comment = req.POST['comment']
+        review.save()
+        return redirect('movies.show', id=id)
+    else:
+        return redirect('movies.show', id=id)
+
+@login_required
+def delete_review(req, id, review_id):
+    review = get_object_or_404(Review, id=review_id, user=req.user)
+    review.delete()
+    return redirect('movies.show', id=id)
