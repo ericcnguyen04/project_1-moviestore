@@ -4,6 +4,7 @@ from django.contrib.auth import login as auth_login, authenticate, logout as aut
 from .forms import CustomUserCreationForm, CustomErrorList
 from django.shortcuts import redirect
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth.models import User
 
 # Create your views here.
 @login_required
@@ -40,3 +41,10 @@ def signup(req):
         else:
             template_data['form'] = form
             return render(req, 'accounts/signup.html', {'template_data': template_data})
+
+@login_required
+def orders(req):
+    template_data = {}
+    template_data['title'] = 'Orders'
+    template_data['orders'] = req.user.order_set.all()
+    return render(req, 'accounts/orders.html', {'template_data': template_data})
