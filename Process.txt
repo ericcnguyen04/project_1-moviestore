@@ -35,5 +35,5 @@ Sept 4
 Description: Chapter 10 start of implementing a shopping cart system, we are sprinting hard and fast.
 - completed 10
 - completed 11 creating order model
-- ongoing 12: implementing purchase and order pages 2nd FINAL VIDEOO!!!!
-URL: 
+- completed 12: implementing purchase and order pages 2nd FINAL VIDEOO!!!!
+URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATIVVSKDX7WMONG3L5ERPYPWKUDW&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQAVrJQ7_sxzTbX0kX4fZVB2ARWqwQS5ly9m0n0YG-jYjOA&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQAVrJQ7_sxzTbX0kX4fZVB2ARWqwQS5ly9m0n0YG-jYjOA&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=e0dd02ee-fe9d-4ea7-8b92-2c7b74e0e1e5&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
