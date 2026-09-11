@@ -1,5 +1,19 @@
 https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATLOPXWBA3G6SJCLFR7D7T3KCY3M&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQBufewQbN6SRLLH4_z2oWNsAa3lzUAjEQnI0Wq5d9_j5C8&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQBufewQbN6SRLLH4_z2oWNsAa3lzUAjEQnI0Wq5d9_j5C8&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=72ff8c12-0769-4a38-99b9-94ac3fcd5aaf&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
 
+-------------------------------
+SUBMISSION DEMO
+THIS VIDEO SHOWS THAT ALL USER STORIES ARE IMPLEMENTED
+URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATJ4O4YPBPGZYRHJKS56BAXUEWLU&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQA8dzDwvNnETpVLvggvQll0AbIDIBAOyONRNElm9elWQFI&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQA8dzDwvNnETpVLvggvQll0AbIDIBAOyONRNElm9elWQFI&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=bf69f5aa-ba6a-4f48-bc79-8b93e83c12ac&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+
+THIS IS VIDEO IS TO MAKE GRADING EASIER FOR WHOMEVER MAY BE GRADING
+-------------------------------
+
+
+
+-------------------------------
+VIDEO LOGS
+-------------------------------
+
 Aug 30th:
 Description: I found the 'textbook' youtube resources went through the first two episodes. I should put this on GitHub, so I did. I will take a break, then I will do another recording continuing my work.
 URL: https://teams.cloud.microsoft/l/meetingrecap?driveId=b%21IEfASXhhrkGXbaWNW56Ahuug19XYv5JEj4ulgbxt4LPDBM8xDFuLQZ6QsTRO4J4_&driveItemId=01IYNCATIXHEBTV2WRSVD2UYIPCZFJ24PO&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQAXOQM66tGVR6phDxZKnXHuAdWFKYdHgl20R6APctdwd1s&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fenguyen82_gatech_edu%2FIQAXOQM66tGVR6phDxZKnXHuAdWFKYdHgl20R6APctdwd1s&threadId=19%3Ameeting_NmNjMTc0ZmQtZGY2Zi00MTFmLWEzOWItYjM4MThmMjExYjhm%40thread.v2&organizerId=53547788-b1e5-4649-b8ea-0a6ea7534f87&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=b9fc1d64-de56-435f-86db-ec1d5bf4d66a&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
