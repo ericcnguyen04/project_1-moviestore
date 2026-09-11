@@ -48,3 +48,7 @@
   width: fit-content;
   max-height: 400px;
 }
+
+.taller {
+  height: 350px;
+}
